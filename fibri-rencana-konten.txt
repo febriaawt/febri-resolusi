@@ -1,6 +1,7 @@
 rencana konten Febri
 - HTML dan CSS
   *HTML 5
+- Dasar struktur data
 - JavaScript
   *ES6
   *Framework JavaScript
