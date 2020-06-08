@@ -1,4 +1,7 @@
 rencana konten Febri
 - HTML dan CSS
+  *HTML 5
 - JavaScript
+  *ES6
+  *Framework JavaScript
 - Python
