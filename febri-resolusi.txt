@@ -1,4 +1,6 @@
 Febri Resolusi
 - Belajar Front-End Web Development
 - Belajar bahasa pemrograman
-- Mampu mengaplikasi bahasa pemrograman untuk membuat website
+- Mampu mengaplikasikan bahasa pemrograman untuk membuat website
+- mengembangkan website
+- konsisten belelajar dan terus belajar
